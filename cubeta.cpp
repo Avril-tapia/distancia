@@ -3,6 +3,7 @@ using namespace std;
 int a[7];
 int main()
 {
+    cout<<"Autor: Avril tapia";
     int n,x;
     cin>>n;
     ///LEER DATOS EN LA CUBETA
